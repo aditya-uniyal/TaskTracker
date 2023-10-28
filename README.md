@@ -20,7 +20,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 ### `npm run server`
 
 Runs the JSON-server.
-Open [http://localhost:3000](http://localhost:3001) to view it in your browser.
+Open [http://localhost:3001](http://localhost:3001) to view it in your browser.
 
 
 
